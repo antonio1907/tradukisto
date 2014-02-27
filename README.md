@@ -1,4 +1,4 @@
-tradukisto
+Tradukisto
 ==========
 
 ¿Qué es Tradukisto?
